@@ -1,4 +1,6 @@
-# flutter-at-a-glance
+## Welcome to the Future of multiplatform development, Flutter.
+
+Here, you will learn about everything Flutter just in glance. If you love what you see, feel free to start your Flutter journey on [Flutter Official](https://flutter.dev/) right away.
 
 ## Table of Contents
 
